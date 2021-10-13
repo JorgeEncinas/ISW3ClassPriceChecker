@@ -5,7 +5,6 @@ PuntoVenta/obj/
 .sonarqube/
 deprecated/
 PuntoVenta/img/
-PuntoVenta/App.config
 PuntoVenta/packages.config
 PuntoVenta/Properties/AssemblyInfo.cs
 PuntoVenta/Properties/Settings.settings
